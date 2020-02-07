@@ -1,0 +1,15 @@
+---
+title: "first-analysis"
+author: "byrnesba"
+date: "2020-02-07"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+a<-10;
+```
+
