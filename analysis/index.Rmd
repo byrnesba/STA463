@@ -7,8 +7,16 @@ output:
 editor_options:
   chunk_output_type: console
 ---
+#WELCOME!
+Brendan Byrnes
 
-Welcome to my research website.
+This is my STA 463 class work webpage. 
 
+***
 
+###My Work
 *[In-class assignment 1](inclass1.html)
+
+
+
+
