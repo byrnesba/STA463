@@ -1,6 +1,6 @@
 ---
 title: "In-class assignment 1"
-author: "Donghyung Lee"
+author: "Brendan Byrnes"
 date: "`r Sys.Date()`"
 output: workflowr::wflow_html
 editor_options:
